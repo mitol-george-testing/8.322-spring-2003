@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d05a8ae7-0f03-b66b-040d-e22b38f1c240"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Quantum Theory II",
+  "course_description": "8.322 is the second semester of a two-semester subject on quantum theory, stressing principles.\u00a0Topics covered include: time-dependent perturbation theory and applications to radiation, quantization of EM radiation field, adiabatic theorem and Berry's phase, symmetries in QM, many-particle systems, scattering theory, relativistic quantum mechanics, and Dirac equation.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.322",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
